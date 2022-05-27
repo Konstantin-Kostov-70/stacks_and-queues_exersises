@@ -1,3 +1,7 @@
 hello world
 new test
+<<<<<<< HEAD
 conflict test 222
+=======
+conflict test 1
+>>>>>>> 429b0f836632ecbdb9cb1f5dbf4cf601df042cda
